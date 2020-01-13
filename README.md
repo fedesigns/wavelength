@@ -1,4 +1,4 @@
 # wavelenght
-Sensing &amp; Internet of Things project: live visualisation and correlation of electroencephalography (EEG) brain waves, focus state, laptop activity and productivity
+Sensing &amp; Internet of Things project: a brain-computer interface for neurofeedback and productivity monitoring
 
 Data sources: Muse Headband (EEG), RescueTime API
